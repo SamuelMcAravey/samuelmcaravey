@@ -19,7 +19,7 @@ My background spans founder/CTO work and hands-on engineering in production envi
 
 ## Selected Systems and Work
 
-### PayeWaive — Payments and compliance workflows for construction
+### PayeWaive - Payments and compliance workflows for construction
 
 Led the technology behind a B2B platform connecting accounting data with payment and compliance workflows. The system integrates directly with customer ERPs and supports day-to-day operational use, not just demos.
 
@@ -31,7 +31,7 @@ Focus areas:
 
 ---
 
-### Custom ERP / MRP — Manufacturing operations built from scratch
+### Custom ERP / MRP - Manufacturing operations built from scratch
 
 Designed and built an internal ERP system for a manufacturing business covering:
 
@@ -45,7 +45,7 @@ The system was used daily by non-technical staff and tied directly into physical
 
 ---
 
-### Nvoicepay (Corpay) — High-volume B2B payments platform
+### Nvoicepay (Corpay) - High-volume B2B payments platform
 
 Led teams delivering enterprise features and platform modernization for a high-volume payments system processing billions annually.
 
